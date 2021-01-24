@@ -41,6 +41,9 @@ p {
     margin-right: 0.8em;
     margin-left: 0;
     text-indent: calc(2 * (1em + var(--letter-spacing)));
+    display: inline;
+    border-right: solid 1px #c8c8c8;
+    padding-right: 5px;
 }
 
 a {
