@@ -4,6 +4,7 @@ body, html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background: url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1257597929,1635549058&fm=26&gp=0.jpg);
 }
 
 * {
@@ -15,6 +16,7 @@ html {
 }
 
 #container {
+    color: #fff;
     font-family: 'STZhongsong', 'STSong', 'SimSun', 'Noto Serif CJK TC', 'Source Han Serif TC', serif;
     word-break: break-all;
     height: 100%;
